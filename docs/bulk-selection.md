@@ -57,7 +57,7 @@ Windows 原生构建使用 `scripts/build-windows.ps1`。冻结程序自验读�
 4. 选择图片后重新搜索、输入非法正则，确认旧选择清空。选择后移动或修改一张测试图片，确认本次操作提示失效。
 5. 检查单张预览及原有分享、复制图片、复制路径仍可使用；确认缓存升级后仍可继续搜索。
 
-用户已授权提交 PR；合并后创建 `v1.1.0` tag 和 release。
+功能已通过 PR #2 合并，并发布 [v1.1.0 release](https://github.com/rb-tyz/wheres-my-meme/releases/tag/v1.1.0)。tag 指向合并提交 `e5b11ce`，附件提供 Android APK、Windows EXE 和两个安装包的 SHA-256 校验和。
 
 ## 执行记录
 
